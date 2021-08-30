@@ -1,4 +1,4 @@
-package filesModule
+package gre
 
 import (
 	"fmt"
