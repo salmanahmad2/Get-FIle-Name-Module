@@ -1,3 +1,3 @@
-module github.com/salmanahmad2/Get-FIle-Name-Module.git
+module github.com/salmanahmad2/getFileModule.git
 
 go 1.16
