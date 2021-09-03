@@ -1,4 +1,4 @@
-package gre
+package getFiles
 
 import (
 	"fmt"
